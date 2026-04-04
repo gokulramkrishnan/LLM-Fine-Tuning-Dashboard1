@@ -17,7 +17,6 @@ Screen #6 : Deploy -> Facilates the deployment of the model and configration par
 
 The purpose of this framework and wireframes is to provide guidance from industry usage perspective and create a starter design for easy industry inheritance without the need to start from scratch. With respect to the usage, the users of the framework and wireframe are encouraged to check the licensing aspect of the open source packages for any commercializing and enterpise deployment needs.
 
-
 HIGH LEVEL INSTALLATION STEPS:
 ==============================
 
